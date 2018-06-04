@@ -21,6 +21,11 @@ header {
   position: fixed;
 }
 
+footer {
+  font-family: Palatino;
+  font-size: 5;
+}
+
 nav {
   text-align: left;
 }

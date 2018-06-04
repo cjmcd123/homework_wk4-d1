@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(0,128,128);
+  text-align: center;
+  min-width: 500px;
+  position:absolute;
+  top: 100px;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  overflow-y:scroll;
+  font-family: Palatino;
+}
+
+header {
+  font-family: Palatino;
+  background-color: #3D9970;
+  margin: auto;
+  top: 1px;
+  width: 100%;
+  padding: 10px;
+  position: fixed;
+}
+
+nav {
+  text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
